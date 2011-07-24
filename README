@@ -1,0 +1,5 @@
+An irssi script to manage away status and nickname when using the proxy
+module.
+
+Put this file in your ~/.irssi/scripts/autorun directory
+

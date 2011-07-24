@@ -45,7 +45,7 @@ $VERSION = "0.0.1";
     contact         => 'ryan@tilder.org',
     name            => "proxy_away",
     url             => "",
-    description     => "When all proxies disconnect, set away",
+    description     => "When all proxy clients disconnect, set away",
     license         => "GPL",
     changed         => "2011-07-22"
 );
